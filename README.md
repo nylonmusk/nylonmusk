@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=2912rla@gmail.com"><img src="https://img.shields.io/badge/Gmail-64BAFF?style=flat-square&logo=Gmail&logoColor=Gmail"></a>
 
 ---
-📚 Stacks
+🛠 Tech Stack
   <br>
   <br>
   <img src="https://img.shields.io/badge/Java-AA00FF?style=flat-square&logo=Java&logoColor=white"> 
