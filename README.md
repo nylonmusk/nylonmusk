@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Shellscript-009639?style=flat-square&logo=Shellscript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Shell-009639?style=flat-square&logo=Shell&logoColor=white"> 
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
   <br>
