@@ -35,9 +35,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/jquery-E6526F?style=flat-square&logo=jquery&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Intellij-6AFDEF?style=flat-square&logo=Intellij IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
   <br>
@@ -54,3 +51,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/Intellij-6AFDEF?style=flat-square&logo=Intellij IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
