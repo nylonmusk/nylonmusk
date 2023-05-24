@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 ![nylonmusk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nylonmusk&show_icons=true&theme=yeblu)
--->
+
 ---
 
 📫 Contact
