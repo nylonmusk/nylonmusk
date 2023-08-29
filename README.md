@@ -35,21 +35,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jsp-EE0000?style=flat-square&logo=Jsp&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/jquery-E6526F?style=flat-square&logo=jquery&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Shell-009639?style=flat-square&logo=Shell&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
