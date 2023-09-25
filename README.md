@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 📫 Contact
 <br>
 <br>
-<a href="https://nylonmusk.notion.site/85a2586cecf5414c902d3d8921d2e1ef"><img src="https://img.shields.io/badge/Notion-512BD4?style=flat-square&logo=Notion&logoColor=Notion"></a>
-  <a href="https://www.instagram.com/hideonflower/"><img src="https://img.shields.io/badge/Instagram-0AE524?style=flat-square&logo=Instagram&logoColor=Instagram"></a>
+<a href="https://nylonmusk.notion.site/436ccfbebab24c8fb17fd5a6a1415c03?pvs=4"><img src="https://img.shields.io/badge/Notion-512BD4?style=flat-square&logo=Notion&logoColor=Notion"></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=2912rla@gmail.com"><img src="https://img.shields.io/badge/Gmail-64BAFF?style=flat-square&logo=Gmail&logoColor=Gmail"></a>
 
 ---
