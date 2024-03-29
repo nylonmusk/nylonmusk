@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <br>
   <img src = "https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src = "https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src = "https://img.shields.io/badge/gitlab-544321?style=flat-square&logo=gitlab&logoColor=white">
   <br>
   <img src = "https://img.shields.io/badge/Intellij-6AFDEF?style=flat-square&logo=Intellij IDEA&logoColor=white">
   <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
