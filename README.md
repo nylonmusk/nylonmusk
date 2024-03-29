@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   <br>
   <br>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/elasticsearch-134sd2?style=flat-square&logo=elasticsearch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kibana-56223a?style=flat-square&logo=kibana&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
   <br>
