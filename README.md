@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2912rla)](https://solved.ac/2912rla/)
-![nylonmusk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nylonmusk&theme=graywhite&show_icons=true)
-
+<!--![nylonmusk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nylonmusk&theme=graywhite&show_icons=true)
+-->
 ---
 
 📫 Contact
